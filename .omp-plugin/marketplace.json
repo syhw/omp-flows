@@ -1,0 +1,30 @@
+{
+	"name": "omp-flows",
+	"owner": {
+		"name": "Gabriel Synnaeve",
+		"email": "gabriel.synnaeve@gmail.com"
+	},
+	"metadata": {
+		"description": "Multi-agent flows for OMP, written as plain subagent definitions."
+	},
+	"plugins": [
+		{
+			"name": "team-solve",
+			"source": "./team-solve",
+			"version": "0.1.0",
+			"description": "Planner, two parallel ideators, solver, manager, and repairer solve a stdin/stdout programming problem through files on disk (memdoor team-solve, method of GVS5H).",
+			"license": "Apache-2.0",
+			"homepage": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+			"category": "development"
+		},
+		{
+			"name": "srchd",
+			"source": "./srchd",
+			"version": "0.1.0",
+			"description": "Researcher agents publish, peer-review, and cite through a file-based publication system run in rounds (dust-tt/srchd).",
+			"license": "MIT",
+			"homepage": "https://github.com/dust-tt/srchd",
+			"category": "research"
+		}
+	]
+}

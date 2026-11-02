@@ -1,0 +1,9 @@
+{
+	"name": "omp-srchd",
+	"version": "0.1.0",
+	"private": true,
+	"description": "srchd as OMP subagents, adapted from dust-tt/srchd (MIT): srchd-researcher agents publish, review, and cite through a file-based publication system run by the srchd agent.",
+	"homepage": "https://github.com/dust-tt/srchd",
+	"license": "MIT",
+	"omp": {}
+}

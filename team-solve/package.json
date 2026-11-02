@@ -1,0 +1,9 @@
+{
+	"name": "omp-team-solve",
+	"version": "0.1.0",
+	"private": true,
+	"description": "team-solve as OMP subagents, adapted from guregodevo/memdoor examples/workflows/team-solve (Apache-2.0): planner, two parallel ideators, solver, manager, repairer, scheduled by the team-solve agent through files on disk.",
+	"homepage": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+	"license": "Apache-2.0",
+	"omp": {}
+}
